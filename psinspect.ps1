@@ -7,6 +7,7 @@
   # v0.2   --  October, 2015 Original release                                                  #
   # v0.3   --  January, 2016 Hoplite Industries fork/many updates/release                      #
   # v0.3.1 --  February, 2016 acochenour, added Office/IE addins, printers & sidebar gadgets   #
+  # v0.3.2 --  February, 2017 acochenour, minor refactoring and additional Win10 testing       #
   #============================================================================================#
 
 # Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.  You may obtain a copy of the License at;
