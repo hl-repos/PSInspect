@@ -1,6 +1,9 @@
 # PSInspect
 PowerShell script useful for Incident Response and security/configuration baselines for Windows Vista and later.  Self-contained 
 
+# Example Report
+![PSInspect Report](https://github.com/hl-repos/PSInspect/blob/master/PSInspect-Report.png)
+
 # Windows Metadata Extraction:
 * User Accounts
 * System Configuration Files (.sys and .ini)
